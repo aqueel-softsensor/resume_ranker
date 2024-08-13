@@ -5,6 +5,7 @@ import numpy as np
 import pymupdf
 import json
 
+
 client = OpenAI()
 embeddings = OpenAIEmbeddings()
 
